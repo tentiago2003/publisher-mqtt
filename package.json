@@ -1,0 +1,24 @@
+{
+  "name": "publisher-mqtt",
+  "version": "1.0.0",
+  "description": "MQTT Publisher Simulator for ControlTech",
+  "main": "src/publisher/publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tentiago2003/publisher-mqtt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tentiago2003/publisher-mqtt/issues"
+  },
+  "homepage": "https://github.com/tentiago2003/publisher-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^5.15.2"
+  }
+}
